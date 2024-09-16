@@ -1,0 +1,78 @@
+body{
+    background-color:#ffd444;
+}
+
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 5%;
+}
+
+
+
+.div{
+    background-color:#ffd444;
+    color: #474747;
+    text-align: center;
+    margin-top: 50px;
+
+
+}
+
+label{
+    display:block;
+    text-align:justify;
+}
+
+input{
+    text-align:center;
+    background-color:black;
+    color: #C6C6C6;
+    border-color:#474747;
+    border-radius: 9px;
+    width:200px;
+    height: 25px;
+    margin-left: 41%;
+    margin-right: 160px;
+}
+
+
+.send{
+    margin-top: 20px;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    margin: 3px;
+    border-radius: 5px;
+    background-color: black;
+    color:#C6C6C6;
+    margin-top: 10px;
+    margin-left:48%;
+}
+
+
+
+.garena-icon{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    margin-top: 98px;
+    
+}
+
+img{
+    width: 50px;
+    margin-top: 20px;
+    margin-bottom: 2px;
+}
+
+P{
+    display:contents;
+    background-color: black;
+    color: gray;
+    margin-top: 10px;
+    margin-left: 300px;
+    
+}
